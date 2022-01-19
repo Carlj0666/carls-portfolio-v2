@@ -1,5 +1,5 @@
 # Carls Portfolio Project Notes
-This is version 2.
+Version 2 is a simplified version of my original portfolio. After some experimentation and more familiarization with Git, I am making this version to incorporate my new knowledge.
 
 # Getting Started with Create React App
 
