@@ -16,7 +16,7 @@ a:hover {
 }
 
 a:visited {
-  color: #ffde59;
+  color: #00000;
 }
 
 
@@ -113,7 +113,7 @@ nav ul li {
   text-transform: uppercase;
   border-radius: 1;
   padding: 0.75rem 0.75rem 0.75rem 0.75rem;
-  color: var(--contact-border);
+  color: var(--secondary-orng);
   margin: 2rem;
 }
 
